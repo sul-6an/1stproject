@@ -1,6 +1,4 @@
 # 1stproject
 first project for the semester
 
-- .htaccess is a hidden file
-
-<h1>hello</h1>
+the task was to make a giveaway website here are my files to modify or use as a base
