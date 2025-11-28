@@ -1,4 +1,6 @@
-# 1stproject
-first project for the semester
+# المشروع الاول
 
-the task was to make a giveaway website here are my files to modify or use as a base
+اول مشروع للترم
+
+هدف المشروع تصميم موقع سحب (giveaway) و استخدام قواعد قواعد البينات
+
